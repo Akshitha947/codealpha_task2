@@ -1,1 +1,1 @@
-# codealpha_task2
+File Manager:This C++ code implements a simple command-line file manager for Windows that allows users to navigate the file system, create directories, and copy files. It uses Windows API functions for file handling.
